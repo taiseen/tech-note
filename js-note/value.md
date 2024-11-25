@@ -35,6 +35,10 @@ that combination will create unique values.
 So from input to output --> we need operator & expression
 ```
 
+```
+value ---> variable ---> operator ---> expression ---> dataType ---> primitive/non-primitive ---> pass by value/reference
+```
+
 ## Data Type
 
 * It is responsible for allow you to perform which kind of actions we can perform with variable...
@@ -60,3 +64,7 @@ So from input to output --> we need operator & expression
     * value ---> is actual value inside that object, to perform some action based on it...
 
 * So how to handle primitive and non-primitive value/dataType
+
+* Primitive types
+  * in primitive variable - value is assigned by - `pass by value` (actual value)
+  * in non-primitive variable - value is assigned by - `pass by reference` (memory location of value)
