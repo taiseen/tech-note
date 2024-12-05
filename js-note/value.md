@@ -68,3 +68,8 @@ value ---> variable ---> operator ---> expression ---> dataType ---> primitive/n
 * Primitive types
   * in primitive variable - value is assigned by - `pass by value` (actual value)
   * in non-primitive variable - value is assigned by - `pass by reference` (memory location of value)
+
+## Closer
+
+Child function create a separate memory for storing parent data -- </br>
+this memory called closer. (or additional memory, scope)
